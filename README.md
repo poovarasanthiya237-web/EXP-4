@@ -94,6 +94,10 @@ Build each rectifier in Proteus, with and without the capacitor filter. Use the 
 <img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/ec589de8-ab62-41f6-a876-76a96b0c0695" />
 
 
+## TABULATION
+
+<img width="1400" height="1339" alt="7" src="https://github.com/user-attachments/assets/db6fad43-9f3f-4495-bddc-f9818fb0d195" />
+
 ## FORMULAE
 
 ### A. Half wave rectifier
